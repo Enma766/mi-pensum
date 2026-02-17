@@ -178,7 +178,7 @@ export default function App() {
               <GraduationCap size={28} />
             </div>
             <div>
-              <h1 className="text-xl font-bold tracking-tight">Plan de Estudio 2008</h1>
+              <h1 className="text-xl font-bold tracking-tight">Plan de Estudio 2026</h1>
               <p className="text-xs text-slate-400">Ingeniería en Informática</p>
             </div>
           </div>
